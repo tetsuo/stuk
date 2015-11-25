@@ -1,0 +1,22 @@
+{
+  "name": "stuk",
+  "version": "0.1.0",
+  "description": "stag inspired streaming canvas bar graphs",
+  "main": "index.js",
+  "scripts": {
+    "publish": "tsc index.ts -m commonjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetsuo/stuk.git"
+  },
+  "keywords": [],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/stuk/issues"
+  },
+  "homepage": "https://github.com/tetsuo/stuk#readme",
+  "devDependencies": {}
+}
